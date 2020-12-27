@@ -32,7 +32,7 @@ export const deleteDataKey = async (node, key) => {
 }
 
 /**
- * Function updates entries in the given node; adds if it doesnt exists.
+ * Function updates keys in the given node; adds if it doesnt exists.
  * @param {String} node select node
  * @param {Object} data data to set
  */
